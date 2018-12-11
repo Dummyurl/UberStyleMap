@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UberStyleMap</string>
+    <string name="allow_storage_permission">Permission Not Granted</string>
+    <string name="google_map_api">AIzaSyAmSKuwIjUboj-G-5oE42GgjNtvr219HM8</string>
+    <string name="not_supported_play_services">This device is not supported Google Play Services</string>
+    <string name="cound_not_get_location_text">Couldn\'t get the location. Make sure location is enabled on the device</string>
+    <string name="source">Source</string>
+    <string name="where_to">Where to?</string>
+    <string name="enter_pickup_location">Enter pickup location</string>
+    <string name="for_me">For Me</string>
+</resources>

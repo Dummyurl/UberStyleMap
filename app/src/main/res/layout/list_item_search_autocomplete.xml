@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:drawableStart="@drawable/ic_postal_code"
+    android:drawableLeft="@drawable/ic_postal_code"
+    android:drawablePadding="15dp"
+    android:padding="10dp"
+    android:textColor="@android:color/black"
+    android:textSize="16sp" />
